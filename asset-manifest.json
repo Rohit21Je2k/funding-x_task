@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rohit21Je2k/funding-x_task.git/static/css/main.130bd8fa.chunk.css",
+    "main.js": "/Rohit21Je2k/funding-x_task.git/static/js/main.84b3cf72.chunk.js",
+    "main.js.map": "/Rohit21Je2k/funding-x_task.git/static/js/main.84b3cf72.chunk.js.map",
+    "runtime-main.js": "/Rohit21Je2k/funding-x_task.git/static/js/runtime-main.8330742a.js",
+    "runtime-main.js.map": "/Rohit21Je2k/funding-x_task.git/static/js/runtime-main.8330742a.js.map",
+    "static/js/2.ac462163.chunk.js": "/Rohit21Je2k/funding-x_task.git/static/js/2.ac462163.chunk.js",
+    "static/js/2.ac462163.chunk.js.map": "/Rohit21Je2k/funding-x_task.git/static/js/2.ac462163.chunk.js.map",
+    "index.html": "/Rohit21Je2k/funding-x_task.git/index.html",
+    "static/css/main.130bd8fa.chunk.css.map": "/Rohit21Je2k/funding-x_task.git/static/css/main.130bd8fa.chunk.css.map",
+    "static/js/2.ac462163.chunk.js.LICENSE.txt": "/Rohit21Je2k/funding-x_task.git/static/js/2.ac462163.chunk.js.LICENSE.txt",
+    "static/media/Input.css": "/Rohit21Je2k/funding-x_task.git/static/media/error_icon.f0af6c6f.svg",
+    "static/media/google.2973bc75.svg": "/Rohit21Je2k/funding-x_task.git/static/media/google.2973bc75.svg",
+    "static/media/title-img.d0d199a4.png": "/Rohit21Je2k/funding-x_task.git/static/media/title-img.d0d199a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8330742a.js",
+    "static/js/2.ac462163.chunk.js",
+    "static/css/main.130bd8fa.chunk.css",
+    "static/js/main.84b3cf72.chunk.js"
+  ]
+}
