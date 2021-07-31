@@ -1,0 +1,51 @@
+/* import Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,500&display=swap"); /* Robot */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap"); /* Google Sans */
+/* default styles */
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  font-family: inherit;
+  box-sizing: inherit;
+}
+
+/* variables */
+:root {
+  /* red-color */
+  --red-3: hsl(0, 100%, 96%);
+  --red-5: hsl(0, 100%, 75%);
+  --red-6: hsl(0, 81%, 52%);
+  --red-7: hsl(4, 71%, 50%);
+
+  /* gray colors */
+  --gray-4: hsl(220, 9%, 87%);
+  --gray-6: hsla(0, 0%, 0%, 0.66);
+  --gray-9: hsl(225, 6%, 13%);
+}
+
+/* helper classes */
+.wrapper {
+  width: 100%;
+  max-width: 640px;
+}
+
+/* user styles */
+.App {
+  display: flex;
+  justify-content: center;
+  background-color: var(--red-3);
+  padding: 0 1.5rem;
+  width: 100%;
+  min-height: 100vh;
+}

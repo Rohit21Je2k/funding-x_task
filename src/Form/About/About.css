@@ -1,0 +1,24 @@
+.form__about {
+  margin-bottom: 12px;
+  border-top: 11px solid var(--red-5);
+  border-radius: 8px;
+  background-color: white;
+  padding: 12px 24px 24px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  word-wrap: break-word;
+  color: var(--gray-9);
+  font-size: 14px;
+  font-weight: 400;
+}
+.form__about__title {
+  margin-bottom: 12px;
+  line-height: 135%;
+  font-family: "Google Sans", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.form__about__legend {
+  margin-top: 12px;
+  color: var(--red-7);
+}
